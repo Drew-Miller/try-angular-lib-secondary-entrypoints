@@ -4,6 +4,9 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class MyLibService {
+  constructor() {}
 
-  constructor() { }
+  debug() {
+    console.log('MyLibService - debug');
+  }
 }
