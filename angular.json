@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "try-angular-lib-secondary-entrypoints"
+    }
+  },
+  "defaultProject": "try-angular-lib-secondary-entrypoints",
+  "cli": {
+    "analytics": "2797aa45-e90f-4af9-8cd6-d87596b6b18f"
+  }
 }
