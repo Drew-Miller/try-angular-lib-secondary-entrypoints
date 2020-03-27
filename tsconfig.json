@@ -19,6 +19,9 @@
       "my-lib": [
         "dist/my-lib/my-lib",
         "dist/my-lib"
+      ],
+      "my-lib/testing": [
+        "dist/my-lib/testing"
       ]
     }
   },
